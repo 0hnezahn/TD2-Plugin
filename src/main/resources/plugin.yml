@@ -1,0 +1,6 @@
+name: Speedplugin
+version: ${project.version}
+main: de.legoshi.speedplugin.Speedplugin
+
+commands:
+  potspeed:
